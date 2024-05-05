@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+    <link href="strategicparagon.com" />
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
